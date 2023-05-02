@@ -9,4 +9,4 @@ This repository contains:
 
 ## General Notes
 
-The database dump for the project is in a syncthing folder.
+The latest database dump for the project is in a syncthing folder.
