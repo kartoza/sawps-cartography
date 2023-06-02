@@ -10,3 +10,19 @@ This repository contains:
 ## General Notes
 
 The latest database dump for the project is in a syncthing folder.
+
+## Examples of Styling
+
+### Dark Theme:
+
+- ![](img/dark_theme_small_scale.png)
+- ![](img/dark_theme_mid_scale.png)
+- ![](img/dark_theme_mid_scale_2.png)
+- ![](img/dark_theme_large_scale.png)
+
+### Light Theme:
+
+- ![](img/light_theme_small_scale.png)
+- ![](img/light_theme_mid_scale.png)
+- ![](img/light_theme_mid_scale_2.png)
+- ![](img/light_theme_large_scale.png)
